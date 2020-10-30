@@ -1,13 +1,10 @@
-Version: 1.0
-
-RestoreWorkspace: Default
-SaveWorkspace: Default
-AlwaysSaveHistory: Default
-
-EnableCodeIndexing: Yes
-UseSpacesForTab: Yes
-NumSpacesForTab: 2
-Encoding: UTF-8
-
-RnwWeave: Sweave
-LaTeX: pdfLaTeX
+print("I am Charoula Veneti")
+print("I am a student of Applied Social Sciences at SMI and this is my first workshop from 301")
+#Perform tasks and commit changes and push them on git#
+library("tidyverse")
+#Book's Example#
+object<-function
+evanescence<-c("Amy", "Jen", "Will", "Troy", "Tim")
+evanescence
+evanescence<-c(evanescence, "Ben")
+evanescence
